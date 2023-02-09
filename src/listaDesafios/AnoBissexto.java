@@ -14,5 +14,27 @@
     Escreva uma função que determina se um determinado ano informado é bissexto ou não.
  */
 
+import java.util.Scanner;
+
 public class AnoBissexto {
+    public static void main (String[] args){
+        Scanner scanner = new Scanner(System.in);
+
+        int ano;
+        boolean divisivel4, divisivel100, divisivel400;
+
+        System.out.print("Informe o ano : ");
+        ano = scanner.nextInt();
+
+        divisivel4 = (ano % 4) == 0 ;
+        divisivel100 = (ano % 100) == 0;
+        divisivel400 = (ano % 400) == 0;
+
+        if (divisivel4 == true && divisivel100 == false || divisivel4 == true && divisivel400 == true){
+            System.out.print(ano+ " Ano bissexto");
+
+        }else
+            System.out.println(ano+ " não é bissexto");
+
+    }
 }
