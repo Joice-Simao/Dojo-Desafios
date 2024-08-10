@@ -2,7 +2,7 @@
 
 ## 📃Sobre 
 <p>
-Este repositório contém os desafios realizados
+Este repositório reúne os desafios concluídos no site Dojo Puzzles. Os exercícios apresentados foram essenciais para consolidar e aplicar os conhecimentos adquiridos, e este repositório documenta as soluções e o progresso obtido através desses desafios.
 </p>
 
 ## 🐱‍💻Tecnologia
