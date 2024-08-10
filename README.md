@@ -1,15 +1,37 @@
-<h1 align="center">Dojo Desafios</h1>
+<h1 align="center">Dojo Puzzles</h1>
 
-<p>Repositório destinado a resolução dos problemas disponibilizados em Dojo Puzzles, linguagem utilizada Java.</p>
-
-<h3>🏆 Resolvidos</h3>
-
-- [x] <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/listaDesafios/src/main/java/Jokenpo.java">Jokenpo</a>
-- [x] <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/listaDesafios/src/main/java/FizzBuzz.java">FizzBuzz</a>
-- [x] <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/src/listaDesafios/EstatisticasSimples.java">Estatísticas Simples</a>
-- [x] <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/src/listaDesafios/AnoBissexto.java">Ano bissexto</a>
- 
-<h3>🤝🏽 Créditos</h3>
+## 📃Sobre 
 <p>
-  Conteúdo disponível em <a href="https://dojopuzzles.com/">Dojo Puzzles</a>
+Este repositório contém os desafios realizados
 </p>
+
+## 🐱‍💻Tecnologia
+- Java
+	
+## 🏆 Desafios Resolvidos
+- <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/src/listaDesafios/AnoBissexto.java">Ano Bissexto</a>
+- <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/src/listaDesafios/EstatisticasSimples.java">Estatística Simples</a>
+- <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/src/listaDesafios/FizzBuzz.java">Fizz Buzz</a>
+- <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/src/listaDesafios/Jokenpo.java">Jokenpo</a>
+
+## 🤝🏽Contribuição
+  Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
+ - Faça um fork deste repositório e clone o fork para sua máquina local.
+ - Crie uma nova branch com o comando: git checkout -b <nome_da_branch>.
+ - Realize suas modificações e faça um commit das mudanças com: git commit -m '<mensagem_do_commit>'.
+ - Envie as alterações para a branch original com: git push origin <nome_do_projeto>/<local>.
+ - Abra uma pull request no GitHub.
+  
+## 💜Agradecimentos
+Obrigado ao site <a href="https://dojopuzzles.com/">Dojo Puzzles</a> pelos desafios que ajudaram a fixar e aprimorar meus conhecimentos
+
+## 👩🏽‍💻Autora
+
+<img style="border-radius: 50%;" src="https://i.imgur.com/n7iVrD1.png" title="Foto da autora Joice" width="100px;" alt=""/>
+ <b>Joice Simão</b>
+ 
+![feito](https://img.shields.io/badge/Feito%20com-%E2%9D%A4-red.svg?style=flat)
+
+<p>Entre em contato!</p>
+<a href="https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"></a>
+<a href = "mailto:joice.simao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
